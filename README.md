@@ -37,7 +37,7 @@ npm run development
 
 ##For Front End we have used Image Sequence and Scroll.js for more immersive experience
 
-<p>Special thanks to my team for support</p>
+<h3>Special thanks to my team for support</h3>
 
 ![](http://i.imgur.com/Ssfp7.gif)
 
