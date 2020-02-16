@@ -36,3 +36,11 @@ npm run development
 
 
 ##For Front End we have used Image Sequence and Scroll.js for more immersive experience
+
+<p>Special thanks to my team for support</p>
+
+![](http://i.imgur.com/Ssfp7.gif)
+
+
+<h2>Licensing</h2>
+<p>MIT 3.0 Redistributable only if kept opensource</p>
