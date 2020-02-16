@@ -15,9 +15,15 @@ The bussiness model is pretty much all about our sponsers who provide merchandis
  
 ![Snapshot of webapp](https://github.com/white-hat-vaibhs/DevHack-2.0/blob/master/Screenshot%20(3).png)
 
+<h1>How things work:</h1>
+
+
+![](https://github.com/white-hat-vaibhs/DevHack-2.0/blob/master/Weedo-Google-Chrome-2020-02-16-0.gif)
+
 <h4>   Make sure you have following installed in your machine</h4>
 <h5>  Node package nmManager (NPM), MongoDB ,Node Version Manager (NVM)</h5>
 <h3>   Execute the following commands after opening the parent directory </h3>
+
 
 
 ```python
@@ -30,3 +36,11 @@ npm run development
 
 
 ##For Front End we have used Image Sequence and Scroll.js for more immersive experience
+
+<h3>Special thanks to my team for support</h3>
+
+![](http://i.imgur.com/Ssfp7.gif)
+
+
+<h2>Licensing</h2>
+<p>MIT 3.0 Redistributable only if kept opensource</p>
